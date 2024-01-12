@@ -86,18 +86,7 @@ int main()
         system("cls");
     } while (tolowercase(opt) != "a" || tolowercase(opt) != "b" || tolowercase(opt) != "c" || tolowercase(opt) != "d");
 
-    /* // Simulate sending and receiving messages
-
-     sendMessage("Hello, how are you?");
-     receiveMessage("I'm doing well, thank you!");
-
-     // Simulate making a phone call
-     makePhoneCall("Alice", "Bob");
-
-     // Simulate ringing until the call is answered
-     ringUntilAnswer("Charlie", "David");
-
-     return 0;*/
+    
 }
 
 // Function to send a message
